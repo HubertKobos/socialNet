@@ -46,7 +46,7 @@ Here is a couple of screenshots of the user interface
 
 * Users have the ability to invite each other to their own groups and remove them from groups through special modals. These modals are accessible from the profile page of their friends, allowing for easy management of group invitations and removals
 ![App Screenshot](https://snipboard.io/hWZica.jpg)
-![App Screen](https://snipboard.io/OyrRMJ.jpg)
+
 
 * Each user has their own group page that showcases all the groups in which they are either an owner or a participant. This dedicated page provides a comprehensive overview of the user's group affiliations, allowing them to easily access and manage their various group memberships
 ![App Screen](https://snipboard.io/X3txkD.jpg)
