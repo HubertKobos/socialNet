@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+body {
+    background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%);
+    padding-top: 2%;
+    font-family: 'Lato';
+    color: whitesmoke;
+}
+
+/* color of text in vertical header */
+.layout{
+    color: whitesmoke;
+}
+
+.create-post-form::placeholder{
+    color: white
+}
+
+.VerticalHeader{
+    font-family: 'Pacifico';
+    font-size: 1.5em;
+}
+.Logo{
+    font-family: 'Pacifico';
+    font-size: 1.8em;
+}
+
+.loginModal{
+    color: black;
+}
+
+.friend-list-button{
+    background-color: #222222;
+  cursor: pointer;
+  filter: brightness(90%); /* Set initial brightness */
+  transition: filter 0.5s; /* Add transition effect */
+}
+
+.friend-list-button.hovered{
+    filter: brightness(100%); /* Increase brightness on hover */
+}

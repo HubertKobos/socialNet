@@ -1,0 +1,21 @@
+/* width */
+.messages-container::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  /* Track */
+.messages-container::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+.messages-container::-webkit-scrollbar-thumb {
+    background: rgb(40, 40, 40); 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+.messages-container::-webkit-scrollbar-thumb:hover {
+    background: #3f3f3f; 
+  }

@@ -1,0 +1,128 @@
+@media(max-width: 576px){
+    .ProfileName{
+        font-size: 25px;
+        margin-left: 5vw;
+    }
+    .ProfileCity{
+        font-size: 15px;
+    }
+    .ProfilePostsColumn h2{
+        font-size: 20px;
+        margin-left: 5vw;
+    }
+    .ProfileFollowersColumn h2{
+        font-size: 20px;
+        margin-left: 5vw;
+    }
+    .ProfileFollowingColumn h2{
+        font-size: 20px;
+        margin-left: 5vw;
+    }
+}
+
+@media(min-width: 576px) and (max-width: 768px){
+    .ProfileName{
+        font-size: 20px;
+        margin-left: 5vw;
+    }
+    .ProfileCity{
+        font-size: 15px;
+    }
+    .ProfilePostsColumn h2{
+        font-size: 20px;
+        margin-left: 5vw;
+    }
+    .ProfileFollowersColumn h2{
+        font-size: 20px;
+        margin-left: 5vw;
+    }
+    .ProfileFollowingColumn h2{
+        font-size: 20px;
+        margin-left: 5vw;
+    }
+}
+@media(min-width: 768px) and (max-width: 992px){
+    .ProfileName{
+        font-size: 30px;
+        margin-left: 5vw;
+    }
+    .ProfileCity{
+        font-size: 20px;
+    }
+    .ProfilePostsColumn h2{
+        font-size: 20px;
+        margin-left: 2vw;
+    }
+    .ProfileFollowersColumn h2{
+        font-size: 20px;
+        /* margin-left: 0vw; */
+    }
+    .ProfileFollowingColumn h2{
+        font-size: 20px;
+        margin-left: 1vw;
+    }
+}
+@media(min-width: 992px) and (max-width: 1200px){
+    .ProfileName{
+        font-size: 30px;
+        margin-left: 2vw;
+    }
+    .ProfileCity{
+        font-size: 20px;
+    }
+    .ProfilePostsColumn h2{
+        font-size: 25px;
+        margin-left: 0vw;
+    }
+    .ProfileFollowersColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+    .ProfileFollowingColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+}
+@media(min-width: 1200px) and (max-width: 1400px){
+    .ProfileName{
+        font-size: 30px;
+        margin-left: 2vw;
+    }
+    .ProfileCity{
+        font-size: 20px;
+    }
+    .ProfilePostsColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+    .ProfileFollowersColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+    .ProfileFollowingColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+}
+
+@media(min-width: 1400px){
+    .ProfileName{
+        font-size: 30px;
+        margin-left: 2vw;
+    }
+    .ProfileCity{
+        font-size: 20px;
+    }
+    .ProfilePostsColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+    .ProfileFollowersColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+    .ProfileFollowingColumn h2{
+        font-size: 25px;
+        /* margin-left: 5vw; */
+    }
+}
