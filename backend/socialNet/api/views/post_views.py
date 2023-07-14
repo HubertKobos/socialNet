@@ -10,7 +10,7 @@ from ..features.feature_functions import cut_off_hashtags, decode_token
 from django.core.exceptions import ObjectDoesNotExist
 from django.shortcuts import get_object_or_404
 
-#TODO: change all the geting user object from database so it is not grabbed by any id but a JWT token
+
 @api_view(['DELETE'])
 @permission_classes([IsAuthenticated])
 def deletePost(request):
